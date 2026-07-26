@@ -5,24 +5,23 @@
 **Econumo** [eh-koh-NOO-mo] - a beautiful application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets, offering cloud-hosted or self-hosted options.
 
 - **Website:** [econumo.com](https://econumo.com)
-- **Live Demo:** [demo.econumo.com](https://demo.econumo.com)
 - **Open Source:** [github.com/econumo](https://github.com/econumo)
 
 ##
-### [WhiteAgent](https://whiteagent.org)
+[<img src="assets/gosaid.svg" alt="GoSaid logo" height="32"/>](https://gosaid.dev)
 
-**WhiteAgent** — Private, white-label agents working under your brand.
+**GoSaid** - a multi-platform dictation tool with built-in translation.
 
-- **Website:** [whiteagent.org](https://whiteagent.org)
-- **Open Source:** [github.com/whiteagent-org](https://github.com/whiteagent-org)
+- **Website:** [gosaid.dev](https://gosaid.dev)
+- **Open Source:** [github.com/gosaid/gosaid](https://github.com/gosaid/gosaid)
 
 ##
-[<img src="assets/moose-browser.svg" alt="Moose Browser logo" height="32"/>](https://moosebrowser.com)
+[<img src="assets/winterflow.png" alt="WinterFlow logo" height="32"/>](https://winterflow.io)
 
-**Moose Browser** - Under development
+**WinterFlow.io** - A Fresh Look at Self-Hosting
 
-- **Website:** [moosebrowser.com](https://moosebrowser.com)
-- **Status:** Not open source (under development)
+- **Website:** [winterflow.io](https://winterflow.io)
+- **Open Source:** [github.com/winterflowio](https://github.com/winterflowio)
 
 ##
 ### About Me
