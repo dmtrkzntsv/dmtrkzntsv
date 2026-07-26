@@ -5,7 +5,7 @@
 **Econumo** [eh-koh-NOO-mo] - a beautiful application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets, offering cloud-hosted or self-hosted options.
 
 - **Website:** [econumo.com](https://econumo.com)
-- **Open Source:** [github.com/econumo](https://github.com/econumo/econumo)
+- **Open Source:** [github.com/econumo/econumo](https://github.com/econumo/econumo)
 
 ##
 [<img src="assets/gosaid.svg" alt="GoSaid logo" height="32"/>](https://gosaid.dev)
