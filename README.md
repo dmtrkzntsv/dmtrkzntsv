@@ -1,27 +1,26 @@
-## Most Recent Projects
+## Projects & Tools
 
 [<img src="assets/econumo.png" alt="Econumo logo" height="24"/>](https://econumo.com)
 
-**Econumo** [eh-koh-NOO-mo] - a beautiful application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets, offering cloud-hosted or self-hosted options.
+**Econumo** [eh-koh-NOO-mo] - personal and family finance management with multi-currency, joint accounts and budgets, cloud-hosted or self-hosted.
 
 - **Website:** [econumo.com](https://econumo.com)
 - **Open Source:** [github.com/econumo/econumo](https://github.com/econumo/econumo)
 
 ##
-[<img src="assets/gosaid.svg" alt="GoSaid logo" height="32"/>](https://gosaid.dev)
+[<img src="assets/togethernotes.png" alt="Together Notes logo" height="32"/>](https://togethernotes.com)
 
-**GoSaid** - a multi-platform dictation tool with built-in translation.
+**Together Notes** - native Mac & iPhone notes in your own git repo, so your AI agents can read and write them.
 
-- **Website:** [gosaid.dev](https://gosaid.dev)
-- **Open Source:** [github.com/gosaid/gosaid](https://github.com/gosaid/gosaid)
+- **Website:** [togethernotes.com](https://togethernotes.com)
+- **Posts:** [kuznetsov.dev/projects/togethernotes](https://kuznetsov.dev/projects/togethernotes/)
 
 ##
-[<img src="assets/winterflow.png" alt="WinterFlow logo" height="32"/>](https://winterflow.io)
+[<img src="assets/twillingate.svg" alt="twillingate logo" height="32"/>](https://github.com/dmtrkzntsv/twillingate)
 
-**WinterFlow.io** - A Fresh Look at Self-Hosting
+**twillingate** - cookieless web, app and product analytics as one Go binary and one SQLite file.
 
-- **Website:** [winterflow.io](https://winterflow.io)
-- **Open Source:** [github.com/winterflowio](https://github.com/winterflowio)
+- **Open Source:** [github.com/dmtrkzntsv/twillingate](https://github.com/dmtrkzntsv/twillingate)
 
 ##
 ### About Me
